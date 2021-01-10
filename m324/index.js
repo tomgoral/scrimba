@@ -25,4 +25,3 @@ var larry = {
     age: 20,
     friends: ["john", "lisa", "al"],
     isPetOwner: true
-}
